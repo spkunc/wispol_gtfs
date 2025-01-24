@@ -1,2 +1,2 @@
-# wispol_gtfs
-GTFS data for Wispol bus services
+# GTFS feed for Wispol bus services 
+
